@@ -1,0 +1,8 @@
+c_hidden: 256
+c_in: 7
+c_out: 1
+dp_rate: 0.05
+dp_rate_linear: 0.3
+layer_name: GraphConv
+num_layers: 4
+use_batch_norm: true

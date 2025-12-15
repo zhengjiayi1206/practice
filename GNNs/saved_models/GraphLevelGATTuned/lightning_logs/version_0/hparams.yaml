@@ -1,0 +1,10 @@
+c_hidden: 64
+c_in: 7
+c_out: 1
+concat: false
+dp_rate: 0.1
+dp_rate_linear: 0.3
+heads: 4
+layer_name: GAT
+num_layers: 3
+use_batch_norm: true

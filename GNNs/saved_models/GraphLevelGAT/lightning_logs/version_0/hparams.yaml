@@ -1,0 +1,8 @@
+c_hidden: 128
+c_in: 7
+c_out: 1
+dp_rate: 0.2
+dp_rate_linear: 0.5
+heads: 8
+layer_name: GAT
+num_layers: 3
